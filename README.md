@@ -9,4 +9,3 @@ The Master Caddy enclosure is a great product that offers physical protection fo
 In order to read numerous drives at once and organize them in the best configuration, a 1u rack enclosure will be made to read 4 drives at once allowing for offload of the drive at once. This will ensure that the data is backed up as fast as possible and lead to less time worrying about having data in a single place. 
 
 ## Progress
-<iframe allowfullscreen src='https://timelines.gitkraken.com/timeline/ad14de44312f41e19bd108dcb24c9031?showControlPanel=true&showMinimap=true&range=0_10&size=1' style='width:100%;height:100%;border:none;' />
